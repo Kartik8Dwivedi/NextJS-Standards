@@ -1,6 +1,6 @@
 # # 🧠 Project README: Scalable Frontend with Next.js
 
-This project demonstrates a **clean, modular, and scalable** frontend architecture using **Next.js (App Router)**, **TailwindCSS**, **React Query**, and **Axios**. It is designed to serve as a template and learning guide for interns and junior developers working on real-world frontend projects that consume APIs from backend microservices.
+This project demonstrates a **clean, modular, and scalable** frontend architecture using **Next.js (App Router)**, **TailwindCSS**, **React Query**, and **Axios**. It is designed to serve as a template and learning guide for developers working on real-world frontend projects that consume APIs from backend microservices.
 
 ---
 
